@@ -1,0 +1,2 @@
+# Las dependencias se agregarán cuando se seleccione
+# y pruebe la interfaz y las bibliotecas necesarias.
